@@ -1,0 +1,453 @@
+=== Page 1 ===
+2021 FE He ASa Ria 2 ree
+TL Be
+ABSTRACT, 2021 42 A 6,7 Dicttbive Gh BAA TS ROA ALD ARI «RS - RET DS .
+1. Fe
+
+LA BIO T, [1] BUC APRA CRE IR < EAH TEKS NWS. (1) SHAE, BAA? baD
+RIC HEo CMAIAAS LK. (2),(3) tk Mathematica C Ko T A DMASARS AMAL, MAL. (4) SHU
+SPICE A 7. FTSIDSIT CRI BE CH SEDO MTR SSA IHICOW TC E OBE © AG IO RIL SLY
+EWS CEIHERL CWS. BE, BOWS & RICHI (1),(2),(3) OM ROMA CERO DERMLE. AHELT
+Vk (2) C AISA 1 PHSOC UE BRENTHSRD, COMA 1 OBMEBICHERL TS. COUR (3) (CHWS
+b=LEWSRMEISERL TW S. |2) CBW CAMS CHS CLICHE LZ. (2) (BVT Hessian 25 0 ICS
+© SSH & o TORE PAL, (0,0) DIF COA ® TAR Lie. (3) (ABARAT BERUC 2? + y? ED RADHO
+Te ke DHEA eT 2 72. 3) (CBU CAE CD SOS, THEO SA ONTO, (1) SAFER OME RDS
+HARE DS at LS GE S, ALO BUS BZ. R38, TPAC HRI EOD MRIS SIE CH Hz. (2) ATR OHA, he
+shah Be L < Bue. CIC PEA C) CH SEO ESTHET RY BREA
+Feat sa CUE CK RPO.
+
+2B BKOWT,|1 KEW CHANICTHREISS < RV. (1) AOR ICE oz. (2) \k Hermite TIO Be
+SAIC OW COBIAN hVISERT SCH ORE UML Z. (3) PRES BIC (4) OPE CH XZ, (3) OF
+AEC OWT OM RE PH Lie. aX ATIC ES SEAT AEHE IC OW CILIE RHE ATA = *AA M5 DFES. [2] IC
+BW CHRAMED RE & Ro THOS OUBLY. (1) CAARRETCSH D EEO LE DS f D Lipschitz Hive t b
+) Lipschitz ERBEO ESIMN SOOPER. (2) lk (i) EHS KBR TRAD S (1) OM ROMER BODSA
+fe. (ii) CHAE OTN AD > LCHRBM CRY FHL TBA. (3) iC BWT (1),(2) (RLY ho CHEZ. (1) US
+Euclid 2 LORAIAD RR & HR Le CEO Cee ROHLE.
+
+CONTENTS
+
+L.A 1
+
+2
+
+9
+
+u
+
+References 11
+
+1
+
+
+=== Page 2 ===
+2 TL ba
+2. 104
+a,b PRBS S. 3 REG TA
+—b b+1 a
+A= —2b 2b+1 a
+—b-1 b+1 a4l
+OWT, LL PORICAA k.
+1
+(1) A DEIAIET, 1 EWSBOMEAN KVESOBSDETATRHE.
+t
+
+(2) ADBIAIe TATRYH XE.
+
+(3) D=1 OWA, BA LIONS SHAE ORILERD K.
+
+(4) A DTS{E BAIA CH SEO a,b BAR TFREBDELIREERD KE.
+Proof. (1) HRBOMAIR® AX 23S. £7, AGRA lots SHBG VY eS AIC br OES OD,
+p.131, # 5 Hi §5] kD
+
+—b b+1 a 1 1
+—2b 2b+1 a 1 }=A{ 1
+—b-1 6b+1 a+l t t
+GC, CAS fA HZ
+ta+1 Xr
+ta+1 = Xr
+t(a +1) At
+LAH CES. CHEARTALELT
+QO,#) =(1,0), (@+1,1)
+DEES S.DKD, RY SMIAIS 1a +1 CH),
+1 1
+1 | eV, 1 | €Va41 (Va,b ER)
+0 1
+CHS.72B, CD 20OWMANZ bid a OFFIC REET ICRU OHS. E (1a =O OWA A OFA 1 O
+MMES 2b CHD), dimYy > 2CHSZCUPHMS. COLE A ICBWTHYS.
+
+(2) (1) kD Ald 1a4+1 SIAC b0. RD LOX AEBS. trA=—b+ (2041) +(a+1) CH), —ikic, wh
+(trace) (ZEIA(EOAMICS LW B, p.146, HPA IV). O#D, trA=14+(a+1)+rA CHbHSS. oT, AX =b CHS. ED
+Ct, A OMG (Hit
+
+1, a+l1, 6b
+ERES.
+(3) b=1 O84,
+—-1 2 a
+A= —2 3 a
+=2>2 a1
+CH) THAAD
+2 —-2 -a 1 -1 -a/2
+I-A=| 2 -2 -a|—>{0 0 0
+a 0 0 0
+ECKS. ko CAH O Ess & RIVE [0 pp.108-109, CH 4.5] KY
+dimV, = dimKer(J — A) = 3—rank(J — A) =3-1=2
+ERES.
+
+(4) $528 > A DSTIERETAE TS SEDI a,b BAR TREBETPRE M(a,b) = (0,1) Eekat1=b44U
+CHS. FE : HRC, IEA TTSI DNAS (LATHE TH SE DORE++HREH SAGO (ASR OBeE LTO)
+BME > AAZAMORLA-MELT 1S) CYCHS MM p.136). (2) KY A OMAMHIS 1,041, CHS. CHSEO
+
+
+=== Page 3 ===
+2021 FERE RISER A alba 2 RSE 3
+BMY TOL Xk OMA EMORILE (i) b= 1 OBR, (ii) 641 POat1=1 OF, (iii) bA1POa+141 08%
+BD 3 DOBRA DU TCHAS. EF, G) b= 1 OBAOWTHAS. COL KAA 1 OBME 2ECHD, (3)
+KD alCkSFK dimY =2CHS. Lo T APMAILFAHECTH SKMICISAAIE 1 OR MED 3 CRSC EDL
+B+3CHSPS a =0 CHS. DEY (a,b) = (0,1) DEX AWE RABE TH S CUB DDS. Ri, (ii) bA1
+POa+1=1OWBFGICOWTHAS. COL SMAIE 1 OBMBIS 2 THS. (1) OMBREY dimY > 2 THSEHD
+AWEAIAE CH S. BARIC, (iii) DA 1 POat+1A1OBRKOWTHEA S. ABM CARETH SRO
+FEEDS 2. EOHSHOFEDDECH SP 656,a+1=beUTEW. COL
+—b b+1 b-1 2 eee
+A= —25 2+1 b-1 |], bF-A= 2 eee
+—b-1 b+1 6b oi) ne
+CHS. MH eMIIRORRIC ED, a+1=bDdSE TCO DI - A ORS
+_f 1 (@=+1)
+rank(O— A) = { 2 (bé+1)
+CHSC EPDTER CE S25, WASH OER YC RILEH KD
+2 (6=+1
+dimV,41 = dimV, = dimKer(bl — A) = { 1 : 4 is
+ERD a+1L=bALALDESR AlWAEFARETH 5. LE (i), (ii), (iti) KO RO SBI M(a,b) = (0,1) KMS
+at1=b4A+1) CHS. Oo
+
+
+=== Page 4 ===
+4 TEE tt
+LLFOMICER k.
+(1) [ABR
+~ cos £
+/ ——_dz
+i a
+DIM Se RARE.
+(2) R? ECHPES trie 2 BIR f(a, y) = 2? —y*§ — (a+ y)* OHM TNTRD EK.
+(3) a> OSS. ROMAMBE RD EL.
+a a/ 2a?2—y? 2. 2
+| / e* *¥ dx | dy
+0 y
+Proof. (1) BBR IZ EO EEO LOD IFRR 5s < t ICH LT
+[eta = || =2 Se < Se jsinal 4 t+ts f 2 ae= 1 1 _1,1_2
+Pare e |. de —& t s Jf, x? t s Jj, w ¢ 8 £ § §
+BMGONS. Kol, FRONKERM ec lOc % 2/e KDKEC EN, c< 5 <t RHE TER OLOORR s,t
+LT
+if COS £ | 2
+— dz) <-<e
+Pe 8
+DRO WOCeEDBDPS. CDK IC Cauchy OFE B, p.292, mA 11.1] OR Vie T CLADE DO SNEED,
+COMPA TIAIMKS S.
+(2) BRC f © PBSC
+of 9m _ 3 Of __ 4,3 _ 3
+CH),
+of _ Of _ _ 8g 3 _
+PC By) = 0 <= 29 — Ata + yy)" = —dy" —4(@ +)" = 9
+TRO CHEE RS
+(v,y) = (0,0), (+2, +1)
+CHS (MSHI) .RITCD3D0ONTCO Hessian VAHL ESD. Hesse (TH ld
+Of Of
+H _ By ey) daay oY _ 2— 12(@ a yy -12(¢ + y)?
+H@y)= | are of ~\ 12a +y)?2  -12y? — 12(a + y)?
+ayo ay?)
+KY
+2 0
+det H;(0,0) = | 0 0 | =0
+CH), Hessian POMS DDSwRW. LWL
+f(z,0)=a*-29>0 (0<|a|<1), f(0,y)=-2y*<0 (y40)
+CHSD (x,y) = (0,0) CHE & STRW.
+Oo? f -10 -12
+Agi EB Fl) = -10<0, det Hy(+2, #1) = | “19 04 | =96 >0
+WA (x,y) = (+2, F1) CHAIHR ES CSI) WA beRICEE DT
+0) | 2 | 0 | Mille & 70 |
+PS f ORMEISHAIE f(+2,41)=204THS GES .
+
+
+=== Page 5 ===
+2021 FEE BURA aA 2 KER 5
+(3) D:= {(2,y); a? +y? <20?,0<y<a} UBS. MRTSZERDOEDICHS:
+y
+y=o
+a
+oe $y? = 22
+D
+O J2a ”
+APE RZIA © = rcosé,y = rsind ICKY DlEO = {(r,6) ; O< 7 < V2a,0 < 0 < 1/4} MDL, COL EOD
+Jacobian ti Gy) =P CS. koe
+@ a Cae 2 n/4 ei 2 T C
+/ / e” TY dx ay = || ev tY dady = | [ e” rdrao = | ae | e” rdr = —(e?* —1)
+0 \dy D 2 0 0 8
+ERE S. Oo
+
+
+=== Page 6 ===
+6 TL
+[BRAD
+2 4
+eBAD WAPOMICEZ E.
+(1) SSeBHRX f(z) = eet DEERE {fz=x2+iyeC; 2,yEeR, y> 0} NOME CCCOMRERD E.
+(2) PREHLS AWC I OUBE RD E.
+Proof. (1) P(z):= 28 +1, Q(z) :=1e¢8¢&, f(z)= a CHS. AER P(z) = 0 DIRERD SRB z= re” (r >
+0, 0@ER) EBS, -l=e™ CHSCUKHERT SY
+2+1=0 — =-1
+= (re?) =e™
+es phe St9 — pri
+=> 7 a=1 & &F = e™
+= r=l&aneZst. 66=7+4 2n7
+—> r=1&IneZst.o= 7
+= AneZst. z=exp (7)
+ECES. BRORIE n (COW TAH 6 CHSOT, HBET S 6 MAEUULT ATO SOHO FT. KoT P(z) OB Fic
+ES
+C= ett efi ett est etievt
+DEY
+c=, as
+CHS GREER) . CHOOMMUEAR ICH), P.QUCLATERT, O(c) =140TH4E5, OHSU SO
+L{ORMTC SH 0 ,
+ga#O _1_«__¢ _-&
+Rese) = prc) = Gs ~ Go O(a)
+CHS. AFIT ED ce OA HCE EMICH SH OU
+_ +7344
+rn a
+CHO ECCOMRUL
+yt tv3+i\ +V3+4
+Res(f;7) = ~@° Res G a) =~ a5
+CHS (ASIII) .
+Ca) FORA ICAR < etd, 28 = (27) 8 CHER LC RR SCR KOT
+41 = (22-41) (24-2241) = (2? 41) (244-22? 41-32”) = (2? 41) {(2 41)?- (v3.2)? = (2241) (22 +V3241)(22—-V3241)
+2, 39D 2RGRREMOT LOR RES. BLED L BBC, MO iC 4S LNMBMWD (-1)? =i ROT
+a eee 2 ee en nee eee)
+©HCES.
+(2) deg P(z) = 6, deg Q(z) = 0, deg P(z) > deg Q(z) + 2, Vaz ER, P(x) 40 CHS CEKEHRTS. RS 1LICKHL
+C, HH LOMG Jp:—{z=c ER; -—R<a< RR} EAR CR = {z= Re? EC; 0S 0 <r} PORSAMRIC
+
+
+=== Page 7 ===
+2021 RHE AINA AARABRINID 2 RE 7
+Ralkfat lel 0 Ole] & % Ad 7c ARERR ® ye = Je t+ Cr UBS. COFM®M ye PMT SE
+iR
+Cr
+fe
+eet yer
+=F a 1 Jr R
+eRD, BRACE I, p.162, HE 17) & (1) OMRKEY
+/ flejdz = 2wri Ss Res(f;c)
+YR Ime>0
+“ 274 { t a) + Res(f;2) + Res t od
+© 5,{ V8ti_@_ -v3+i
+oo 2 6 12
+_ 2
+= 37
+CHS. COT, |2} =ROLS |2® 41] > [2-1 = R°-1>0 DM WS, Ce ORAM TR TCHSPH
+R
+[tee < oe (R > o)
+CHS. koT
+[= [. f(ajde = lim / f(z)dz = lim (/ flzjdz -f f(2\dr) — a
+— R00 Jie R00 YR Cm 3
+ERE S (D, p.82 fee 3.5]. Oo
+(HUE) (2) CRO EMD I ABRCEME AWS ICRDS CL ECES. MET MMILAHERE OCHO
+AR (BL, p.241 fee 6.1) @ AV AUTRE ICE ERR TE C&S S [, p.242, fee 6.2). SER, (1) O Gill) OH CH
+StL Fe RRR ED Bap RT RS.
+1 1 4. /3a +2 in —V/3a +2
+c86+1 3(a?+1) 9 6(a2+V3e4+1) 6(2? — Br +1)
+CH), Mathematica tc Kitt
+1 _ i v+V3c+1 1 1 1
+/ nh “ZA log 2 VJ3e+1 + A arctan(2@ + V3) + 2 arctan(2a — V3) + z arctan ©
+CHS.
+(He) TBE BRE COTA, AAAS. CCITT BRE BRO ERIS
+oO 1
+T(x) := | t'e'dt, B(a,y):= | t-'(1—t)¥ "dt
+0 0
+CH) Bl, p296, 38 1), B BRMICOW CHERRN ORT EAMAIAS SC EICED
+OS fe-1 ¢
+Bia, y) = | ea dt (« = ra)
+
+
+=== Page 8 ===
+8 7 bat
+DMO WO. Ke, MRA BL p.334, HH 15.5], TAL BHAOMK GB, p.297, HH 12.3]
+aya — P(a)P@)
+Taji -2)= sin 7x (0<x#<1), Ba,y= T(o+y)
+DBROIWO. KROES c=’ MT Se
+o 1 1 f~ 4-°/6 1/15
+| wai =5/ t= 5B (53)
+LRSD, CIC
+1 5
+(s)r (3)
+p(t 2)= 8% 6% _p(t\p(y_t)= 7-2,
+6’ 6 1 5 6 6 sine
+P{-+- 6
+6 6
+*° co oc 1 1 2
+URES.
+
+
+=== Page 9 ===
+2021 FEE RIVER A Pat GRIAl 2 KSEE 9
+3. 204
+Ly
+[1 n RET Ald A? =tABARTESS. KEL, AI ADHBTIETS. C™OUMe=| : |, y=
+Ln,
+Y1 n
+| LT, (2, y) ERE Hermite AMS 2,7) ERT SOL TS. LA FORMNICEA K.
+Yn gee
+(1) v SEALE a (oT S A OBIANRZ FVESS. v, Av) RBRBTSCEICE) FP H=aeRe.
+(2) BRSBIAICMS 6 ADAMAN bBo CL ERE.
+DP, n=32U, Ale
+TA? = 14 Dp OILS, AUCH), POMAFTIICRW |
+
+wAIZS ETS.
+
+(3) A DEAD 5 bBYR< Eb-OISEMCHSCLEML, SHI ADMAHETATROE. EK, A
+
+(I= RY ATM EO WBE NS Ce EAE.
+
+(4) RALARST ADPBIZEZE.
+
+Proof. (1) #28 Hermite AfAOTE (0, pp.61-63] ic kD
+(v, Av) = (A*v,v) = (Av, v) = (A?0, 0) = (070, v) = a? (u,v)
+CHS.REL, AX tk A OMEFTIICH S.-C, HEB Hermite NOB —ARUCBIS SiR PE ic KD
+(w, Av) = (vw, av) = au, v)
+
+CHS. ko, MAN ba v OFFREI KD 0? =A TCHS.
+
+(2) v,w PEN SHAAIE a, BITS ADAANY bVEDS. BME Hermite NAO B—ARUCBIS 3 RI TEC
+
+kD
+(Av, w) = (av, w) = atv, w)
+CHS. —F, HES Hermite NO BARUCH S SHER (1) OM READS E
+(Av, w) = (v, Aw) = (v, A?w) = (v, B?w) = Blu, w) 2 Blu, w) = Bw, w)
+CHS. ko TaF# P CHE (v,w) =0 CRUINERSBW. ko CARSHAHICWS 4 A OMAR bE
+RFS.
+
+(3) Ah 3 RELATICH 2.5 4 OMASIRR [cl — Al SRAM 3 RSETERN CHS. Ko CHM(OLE
+p.74, EEE 8.1] KDE OHO I EDR< &H-OISRECHS. OED A OMAIHO ID SDR & H-OISRMCH
+S. Ke, (1) kD AORAAIHS 0,1 DES SP CHS. RAED AIZEN CHS 0 THAIN SERV. ORD
+AH AIH 1 236, 1 DUCRAAIIS DS EE. BAKED ASAT CIRM 6 RACH AIH A S BOT
+EICRS. AWURTIMCHrEPS ADEE AOHAITCS SZ. (1) OME de Moivre DEHMS \ OFHE, iS
+DHECE TC, A OAHIS
+
+, w+ V3i
+2
+D=EDTCHSCEPDMS. CHE (2) EY SHAMS SAAN bUVIERST SPS, ENENTEBUEL TIEN
+UE A BMAILT SI2=% TMH & S (OD, p.64].
+(4) HEAT IIC
+010
+A:= 0 0 1
+10 0
+EDTMUEEW. CHBRHELART © LIA DICER T & B. oO
+
+
+=== Page 10 ===
+10 TL
+T=[0,1 &S4S. I ECHRANKBM yp ld, HS M > ODELT I OF BORE
+0O=to<t <:-:-<t,=1
+LT
+n—1
+S- leltj1) — 9(t;)| <M
+j=0
+RARST LE, I CHRAMCHS EWS. DL PORICEZ E.
+(1) fk Tl PSUR COTAREC, OMB f KI CARE TS. COLR f lk CHHRAMCHS
+ce RARE.
+(2) ROBBIE I CHORAMCHSPLIM, MHee DICEZE.
+_ i 1
+(i) ae)= x sin — (a #0) es) =| © COS — (x £0)
+0 (a = 0) 0 (z = 0)
+Proof. (1) EOE 0 = to < th << tp =1LICMUT, FEO CE GB, p.93, EH 2.3] kD
+Fj) — Fg) =F Gat), ty <% <te
+ECES. CLG, M :=supj,e;|f/(b)| EBT
+lf (tj41) — Ft) S Mltja1 —tj| (V7 =0,1,...,.n—1)
+DS jICOW THE & RUE
+n-1 n-1
+So lf (tia) — FE) < MYO It -— ty] = MO -0) = M
+j=0 j=0
+ECESED f lk I CHRAMCHS Bh p.345, EH 16.2 2)).
+(2) ) ARADCSH 5. MH: ES,
+1
+_ e” sin — — 0
+gies —o®) a ——— =esin = +0 (e+ 0)
+EO BATERAD 5 : \
+g@) = 2a sin ~ £008 (a 4 0)
+0 (z = 0)
+CHS. oT HRD crelicw_ct
+\g’(z)| < sin 2 — £ 60s ;| < 2\z| sin ;| + |x| eo ;| < 2|a| + |x| = 3\2| <3
+x ao ao z
+WA glk I PSUR CRTABEC, OMB go! AI CHFRCHS. Ko T (1) KY gtk I] CHRAMTHS. (ii)
+BRAM CRW. HD DET ODE Y UT
+g< 2 <7 <—~ ee ee ee ee,
+Ann ~ (An—1)r ~ (An — 2) dn 30 > Qn
+RS An +1 MHOARE OMS SOR RIE
+2 2 2 2 2 2
+Man) aw (gaan) => aoe) =~ ame (yan) =°
+PS COPMIOWT, AD ICBO SAME BG, p.345, ER 4 OD PRSOPM|!A
+"(2 2 4v41
+ERSCeICES By p.343, fil 3). oO
+
+
+=== Page 11 ===
+2021 FEE RISER A Pat GRIAlEA 2 KSLA i
+
+DLFOMICE k.
+
+La zy 1 > Of Of Of > <a
+(1) R” OFRG U (4 0) KLOREUHRR f -U — RAC! MCR Ban Daw’ Dan BU bCws
+1 2 n
+WicsSCH SESS. U BRE
+[U DFE 2 IL U AD C1 RAR CHA 3 J
+RAITT ROSVE, f ERR CHS CL EMH.
+(2) GLARE X (4 0) EO REUHBR f : X > R DAMPER BRCCH 3 LIS, (EEO pe XIHUT, pe
+BURRA V DEELT, FBV ECHEMCHS ILE TS. X PMO, X LO MATER HAS
+X bOPRMACH S Ce eA.
+Proof. (1) EEO p,q € U VIEL, pS a AOD C1 ALAA y : [a,b]  U (9(a) =p, (db) = ¢q) BLS. MEE fy
+BORMCH SPS foyd C'MC, MIRTYORAEH, GRERMORTOERS EON LORE S
+° d( fo) °/ AF dn af dn
+
+fla) - 40) = 0) - sa) = f|/ oa [ (Hom Bo+--+ Few w) a=
+eee SsS. CSTE, 7(t) = (m6), nt) CHS. DLEICED f SERCH S BI.
+
+(2) 1 ABBR O wR f—'({a}) kd X OMRACH 6. RR, pe f-'({a}) THU f(p) =a CHSD5 p*E
+CHR Vp OMETEL TC, f BV, E CHM a CHS. COL EV, Cc f"({a}) OX pia Vo = F7'(la}) CHSMS
+PILD fri({a}) aX OMARGCHS. STC, afb RSI fo '({a}) N f-'({b}) =0 CHS. X = Uaer(x) f-'Ca})
+CHSP5 f(X) PITA EAHE X PABMCHS CLICRTS. Oo
+
+lire
+
+PRINCE < A 5 OFSTHIC KD PARR EHD CE DCR. C CIR LED.
+
+REFERENCES
+[1] =e, APS piorait, EPH.
+[2] IPE AH, Borat, Aasarantt.
+[3] Sahin, Boma, FAY Att.
+[4] MGA, BRATATY 1, RASH.
+[5] AEA, AAT APY TL, RAHI.
+[6] HRA =, VN— TRAM, Bee.
+[7] RAL Rah, VA— 7 era, AUPE Le,
+[8] ALLIEN - VeRRTHE - OP + THER, BGR OMUET CR, HSH.
+[9] ESReS HU - SxRAEL, APR CR, DEI CRtt.
+[10] FRRRIE EE, BRAUN A TT, HAS.
+[11] VERBS, BRA IEe, eee
+[12] IPP AcH, APY testa, 2.
+[13] Rea A, ATR O mae, RASS.
+[14] SS, eae, 4 mY Att.
+[15] Pe, Baca A TY, PRICE RSs Ee.
+[16] L.V. Ahlfors, Complex Analysis, McGraw Hill.
+[17] LV. Y—-V7 aA, ERT, BURL.
+[18] FEHR, Sina TI, RA Hee.
+[19] FAAS, ha Y AM, awe ae.
+[20] ARS, Rae AE, Hee.
+(21) PRAIA, FS - HAAR, ee.
+[22] ABV, FARES Ta © ere, Seite.
+(23) 7KSEch, SRR oot, PAY Ate.
+[24] 7KFSeoh, PAM RUE, 4 oy Ath.
+(25) FRACHERE - Aiki, Rae, P 4 oy Att.
+[26] BASRGess, A BREE FB 3 ik, Pe.
+[27] 7Ht—, Mathematica SitWUEL ATA, fetiaeanth.
+[28] BN, AT eX2e SSSR ATY Ocal ss 5 Ik, Betiaranth.
+[29] https://www.math. nagoya-u.ac.jp/ja/admission/gs/exam.html
+GRADUATE SCHOOL OF MATHEMATICS, NAGOYA UNIVERSITY, CHIKUSA-KU, NAGOYA, JAPAN
+Email address: m14006q@math .nagoya-u.ac. jp
+

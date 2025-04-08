@@ -1,6 +1,7 @@
-langchain==0.3.20
-langchain-community==0.3.19
-langchain-core==0.3.42
+langchain>=0.1.0
+pytesseract>=0.3.10
+pdf2image>=1.16.3
+Pillow>=10.0.0
 # langchain-openai==0.3.8  # 不再使用OpenAI
 # openai==1.65.4  # 不再使用OpenAI
 openai>=1.0.0  # DeepSeek支持OpenAI SDK格式，但我们使用它来调用DeepSeek API

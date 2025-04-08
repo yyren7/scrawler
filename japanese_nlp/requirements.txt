@@ -1,0 +1,51 @@
+# 日语NLP模型依赖
+# 基础依赖
+torch>=2.0.0
+transformers>=4.32.0
+accelerate>=0.20.0
+sentencepiece>=0.1.99
+protobuf>=3.20.0
+datasets>=2.12.0
+evaluate>=0.4.0
+fugashi>=1.2.1
+ipadic>=1.0.0
+unidic-lite>=1.0.8
+
+# 嵌入模型依赖
+sentence-transformers>=2.3.0  # 最新版本，用于嵌入模型
+faiss-cpu>=1.10.0  # 向量检索
+numpy>=1.24.0
+scipy>=1.10.0
+tqdm>=4.65.0
+
+# 重排序模型依赖
+rank_bm25>=0.2.2  # 传统BM25算法，用于基线比较
+
+# LLM微调依赖
+peft>=0.5.0  # Parameter-Efficient Fine-Tuning
+bitsandbytes>=0.41.0  # 量化工具，用于QLoRA
+tokenizers>=0.13.3
+wandb>=0.15.0  # 用于跟踪和可视化训练
+deepspeed>=0.11.0  # 分布式训练
+safetensors>=0.3.3  # 安全的模型序列化
+
+# 数据处理依赖
+pandas>=2.0.0
+jsonlines>=3.1.0
+mecab-python3>=1.0.5  # 日语分词工具
+unidic>=1.1.0  # 日语UniDic字典
+nltk>=3.8.1
+
+# 日语特定依赖
+sudachipy>=0.6.7  # 日语形态分析器
+sudachidict_core>=20230110  # SudachiPy核心字典
+
+# 提示扩展依赖
+langchain>=0.1.0
+langchain-huggingface>=0.0.2
+
+# 训练和评估依赖
+jiwer>=3.0.1  # 用于评估语音识别结果
+rouge-score>=0.1.2  # 文本摘要评估
+nltk>=3.8.1  # 自然语言处理工具包
+sacrebleu>=2.3.1  # 机器翻译评估 

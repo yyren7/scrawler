@@ -1,0 +1,1 @@
+# Interface for accessing Vale's production reports (typically PDFs from investor relations - as mentioned in analyze_tool.md) 
